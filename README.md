@@ -1,0 +1,1 @@
+# getran-configs-intellij-with-modules
